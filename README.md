@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riduanul
+- 👋 Hi, I’m Riduanul Haque
 - 👀 I’m interested in Web Development (Javascipt, React, Redux, Nodejs, ExpressJs, TailwindCss, Html, )
 - 🌱 I’m currently learning .. Next js, Typescript
 - 💞️ I’m looking to collaborate on ...
