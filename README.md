@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development (Javascipt, React, Redux, Nodejs, ExpressJs, TailwindCss, Html, )
 - 🌱 I’m currently learning .. Next js, Typescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://riduanul-haque.web.app/
+- 📫 How to reach me https://riduanul-haque.netlify.app/
 - 💞️ I will love to learn python, mysql, ai, blockchain, ethical hacking.
 
 <!---
