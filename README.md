@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structure, Algorithm, OOP, C++, Python, Javascript, Django, React, Mongodb, MySQL, Node Js.**
 
-- 📫 How to reach me **riduanul.haque1@gmail.com**
+- 📫 How to reach me **[riduanul.haque1@gmail.com](https://riduanulhaque.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
