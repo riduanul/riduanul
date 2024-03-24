@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking App](https://book-hotel.onrender.com/api/v1/rooms/)
 
-- 🌱 I’m currently learning **Next Js,**
+- 🌱 I’m currently learning *AI, *Next Js,**
 
 - 💬 Ask me about **Data Structure, Algorithm, OOP, C++, Python, Javascript, Django, React, Mongodb, MySQL, Node Js.**
 
